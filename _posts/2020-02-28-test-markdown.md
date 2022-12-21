@@ -59,6 +59,14 @@ var foo = function(x) {
 foo(3)
 {% endhighlight %}
 
+```java
+public void youAreAmazing(){
+  int a = 7;
+  String b = "hi";
+}
+```
+## You are amazing
+{: .box-warning}
 ## Boxes
 You can add notification, warning and error boxes like this:
 
