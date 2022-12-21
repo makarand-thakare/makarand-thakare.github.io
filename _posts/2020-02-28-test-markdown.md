@@ -65,8 +65,19 @@ public void youAreAmazing(){
   String b = "hi";
 }
 ```
+
+```kotlin
+class Cloud{
+  fun rain(time: String){
+    print("it will rain at $time")
+  }
+}```
+
 ## You are amazing
+
 {: .box-warning}
+This is awesome...
+
 ## Boxes
 You can add notification, warning and error boxes like this:
 
